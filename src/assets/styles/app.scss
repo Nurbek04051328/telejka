@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import './library/reset.scss';
+@import './library/colors.scss';
+@import './library/class.scss';
+@import './layout/aside.scss';
+@import './layout/header.scss';
+@import './layout/navbar.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+*,
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+// @import './library/class.scss';
